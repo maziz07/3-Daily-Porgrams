@@ -1,2 +1,2 @@
-# 3-Daily-Porgrams
+# 3-Daily-Programs
 A repository where I code 3 programs everyday
