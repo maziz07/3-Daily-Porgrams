@@ -6,6 +6,7 @@ This repository contains a collection of Python programs, each designed to illus
 - [Day 1](#day-1)
 - [Day 2](#day-2)
 - [Day 3](#day-3)
+- [Day 4](#day-4)
 
 ## Day 1
 
@@ -90,6 +91,36 @@ Reads content from a file, reverses it, and writes the reversed content into a n
 
 **Description**: 
 Generates the Fibonacci sequence up to a specified number, showcasing basic algorithm design and list manipulation in Python.
+
+## Day 4
+
+### Program 1: Basic Data Analysis - Average Temperature Calculator
+**Concepts Covered**: 
+- Lists and list operations
+- Basic arithmetic operations
+- Function definition and usage
+
+**Description**: 
+A program that calculates the average temperature from a list of daily temperatures, demonstrating how to work with lists and perform basic calculations in Python.
+
+### Program 2: Simple Text-based Game - Guess the Number
+**Concepts Covered**: 
+- Importing and using modules (`random`)
+- Loops (`while`) and conditional statements (`if-elif-else`)
+- User input handling
+
+**Description**: 
+An interactive game where the user is prompted to guess a randomly generated number. It illustrates the use of conditional logic, loops, and the `random` module.
+
+### Program 3: Utility Script - Batch Rename Files
+**Concepts Covered**: 
+- Working with the file system using the `os` module
+- Looping through files in a directory
+- String concatenation
+
+**Description**: 
+A utility script that renames all files in a specified directory by adding a prefix to their names. It showcases file manipulation and iteration over directory contents.
+
 
 <!-- Future day entries go here -->
 
