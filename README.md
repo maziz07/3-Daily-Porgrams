@@ -7,7 +7,7 @@ This repository contains a collection of Python programs, each designed to illus
 - [Day 2](#day-2)
 - [Day 3](#day-3)
 - [Day 4](#day-4)
-- [Day 4](#day-5)
+- [Day 5](#day-5)
 
 ## Day 1
 
