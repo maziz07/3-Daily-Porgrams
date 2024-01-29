@@ -7,6 +7,7 @@ This repository contains a collection of Python programs, each designed to illus
 - [Day 2](#day-2)
 - [Day 3](#day-3)
 - [Day 4](#day-4)
+- [Day 4](#day-5)
 
 ## Day 1
 
@@ -120,6 +121,35 @@ An interactive game where the user is prompted to guess a randomly generated num
 
 **Description**: 
 A utility script that renames all files in a specified directory by adding a prefix to their names. It showcases file manipulation and iteration over directory contents.
+
+## Day 5
+
+### Program 1: Data Structures - Stack Implementation
+**Concepts Covered**: 
+- Class and object creation
+- Basic stack operations
+- List manipulation
+
+**Description**: 
+An implementation of a stack data structure with essential operations like push, pop, and peek. Demonstrates how to create and use a custom data structure in Python.
+
+### Program 2: Algorithm - Prime Number Checker
+**Concepts Covered**: 
+- Mathematical operations
+- Use of for loop and range
+- Prime number checking logic
+
+**Description**: 
+A program to determine whether a given number is prime. It showcases efficient algorithm design and the use of loops for mathematical calculations.
+
+### Program 3: Practical Problem Solving - Simple Expense Tracker
+**Concepts Covered**: 
+- Class and object-oriented programming
+- Working with lists and dictionaries
+- Summing values in a list
+
+**Description**: 
+A simple expense tracker that allows adding expenses with descriptions and calculating the total. Illustrates practical use of classes, lists, and dictionaries for managing data.
 
 
 <!-- Future day entries go here -->
