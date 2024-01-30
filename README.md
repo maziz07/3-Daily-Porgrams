@@ -8,6 +8,7 @@ This repository contains a collection of Python programs, each designed to illus
 - [Day 3](#day-3)
 - [Day 4](#day-4)
 - [Day 5](#day-5)
+- [Day 6](#day-6)
 
 ## Day 1
 
@@ -150,6 +151,33 @@ A program to determine whether a given number is prime. It showcases efficient a
 
 **Description**: 
 A simple expense tracker that allows adding expenses with descriptions and calculating the total. Illustrates practical use of classes, lists, and dictionaries for managing data.
+
+## Day 6
+
+### Program 1: Data Manipulation - Merge Sorted Lists
+**Concepts Covered**: 
+- Lists and list operations
+- Merging algorithms
+
+**Description**: 
+Merges two sorted lists into a single sorted list. This program demonstrates efficient data manipulation and merging techniques.
+
+### Program 2: Recursive Function - Calculate Factorial
+**Concepts Covered**: 
+- Recursive functions
+- Basic mathematical concepts
+
+**Description**: 
+Calculates the factorial of a given number using a recursive function, illustrating the concept of recursion in Python.
+
+### Program 3: Practical Script - Simple Timer
+**Concepts Covered**: 
+- Using the `time` module
+- Looping and time delay
+
+**Description**: 
+A practical script that functions as a countdown timer, showcasing the use of the `time` module for time-based operations in Python.
+
 
 
 <!-- Future day entries go here -->
