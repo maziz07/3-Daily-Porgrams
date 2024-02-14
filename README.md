@@ -1,5 +1,6 @@
 # 3-Daily-Programs
-A repository where I code 3 programs everyday.
+This repository documents my journey through 30 days of Python programming, where I've been writing a variety of programs to learn Python in the most effective way. Each day focuses on different concepts, ranging from basic syntax and data structures to more advanced topics.
+
 This repository contains a collection of Python programs, each designed to illustrate specific programming concepts and practices. The journey starts from basic concepts and gradually moves to more complex and practical applications.
 
 ## Contents
@@ -9,6 +10,8 @@ This repository contains a collection of Python programs, each designed to illus
 - [Day 4](#day-4)
 - [Day 5](#day-5)
 - [Day 6](#day-6)
+- [Taking a Break](#taking-a-break)
+- [Day 7](#day-7)
 
 ## Day 1
 
@@ -178,7 +181,18 @@ Calculates the factorial of a given number using a recursive function, illustrat
 **Description**: 
 A practical script that functions as a countdown timer, showcasing the use of the `time` module for time-based operations in Python.
 
+## Taking a Break
+**Note**: After Day 6, I took a break to explore and learn new Python concepts in preparation for future programs. This intermission allowed me to dive deeper into Python's capabilities and come back with more interesting and complex projects.
 
+## Day 7
+
+### Program 1: Using External Libraries - Generating QR Codes
+**Concepts Covered**: 
+- Working with external libraries
+- Generating QR codes
+
+**Description**: 
+A demonstration of how to generate a QR Code for a URL using the `qrcode` library, introducing the concept of integrating and utilizing external Python libraries in your projects.
 
 <!-- Future day entries go here -->
 
