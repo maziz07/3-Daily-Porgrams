@@ -12,6 +12,8 @@ This repository contains a collection of Python programs, each designed to illus
 - [Day 6](#day-6)
 - [Taking a Break](#taking-a-break)
 - [Day 7](#day-7)
+- [Day 8](#day-8)
+
 
 ## Day 1
 
